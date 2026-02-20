@@ -38,4 +38,17 @@
 
 - [re3data](https://www.re3data.org)
   A global registry of research data repositories. Search thousands of health datasets.
+  
+- [Free / reduced lunch datasets](https://data.web.health.state.mn.us/free-reduced-lunch)
+    - Can get this by school district.  Last data check was 2017.
+    - **Last checked**: 13 Jan 2026
+    - Datasets located in `data-raw` (`free_reduced_lunch_data.csv`)
+
+- [Eviction datasets](https://evictionlab.org/)
+    - Census level trends in eviction from the [Minneapolis/St. Paul area](https://evictionlab.org/eviction-tracking/minneapolis-saint-paul-mn/)
+    - Monthly eviction data from [2020-2021](https://evictionlab.org/eviction-tracking/get-the-data/)
+    Can get this by school district.  Last data check was 2017.
+    - **Last checked**: 20 Feb 2026
+    - Datasets located in `data-raw` (`minneapolis_weekly_2020_2021.csv`, `data_dictionary_weekly_monthly.xlsx`)
+
 
