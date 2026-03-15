@@ -52,3 +52,5 @@
     - Datasets located in `data-raw` (`minneapolis_weekly_2020_2021.csv`, `data_dictionary_weekly_monthly.xlsx`)
 
 - [ACS Met Council](https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census-acs)
+  
+- [Unicef Data](https://cran.r-project.org/package=unicefData)
