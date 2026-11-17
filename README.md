@@ -54,3 +54,5 @@
 - [ACS Met Council](https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census-acs)
   
 - [UNICEF Data](https://cran.r-project.org/package=unicefData)
+
+- [Free Datasets for Social Science Research](https://github.com/toddrjones/datasets)
